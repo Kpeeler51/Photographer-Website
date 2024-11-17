@@ -1,5 +1,7 @@
+body{
+    background-color: #003459;
+}
+
 .cactus {
     height: 500px; width: auto
-};
-
-.collapse { align-items: center;}
+}
