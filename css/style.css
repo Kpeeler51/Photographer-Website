@@ -1,5 +1,22 @@
-body{
-    background-color: #003459;
+body {
+    background-color: #000814;
+    color:#dee3ed;
+}
+
+.navbar {
+    background-color: #003566;
+}
+
+.navbar a {
+    color: #dee3ed;
+}
+
+.navbar a:hover {
+    color: beige;
+}
+
+.active {
+    color:beige !important
 }
 
 .cactus {
