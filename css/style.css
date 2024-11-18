@@ -1,6 +1,9 @@
 body {
     background-color: #000814;
     color:#dee3ed;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 .navbar {
@@ -20,7 +23,14 @@ body {
 }
 
 .carousel{
-    width: 40%;
+    width: 45%;
+}
+
+footer{
+    background-color: #003566;
+    color: #dee3ed;
+    text-align: center;
+    margin-top: auto;
 }
 
 .cactus {
