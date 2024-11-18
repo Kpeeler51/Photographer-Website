@@ -19,6 +19,10 @@ body {
     color:beige !important
 }
 
+.carousel{
+    width: 40%;
+}
+
 .cactus {
     height: 500px; width: auto
 }
