@@ -2,6 +2,7 @@ body {
     background-color: #000814;
     color:#dee3ed;
     min-height: 100vh;
+    height:100%;
     display: flex;
     flex-direction: column;
 }
@@ -21,12 +22,6 @@ body {
 .active {
     color:beige !important
 }
-
-/*.indexheader{
-    text-align: center;
-}*/
-
-
 
 .carousel{
     width: 45%;
