@@ -1,3 +1,4 @@
+/* Universal customization*/
 body {
     background-color: #000814;
     color:#dee3ed;
@@ -7,10 +8,10 @@ body {
     flex-direction: column;
 }
 
+/*Navbar colors, "a" is for text customization*/
 .navbar {
     background-color: #003566;
 }
-
 .navbar a {
     color: #dee3ed;
 }
@@ -18,24 +19,11 @@ body {
 .navbar a:hover {
     color: beige;
 }
-
+/*Color for active page on the navbar*/
 .active {
     color:beige !important
 }
-
-.carousel{
-    width: 45%;
-}
-
-.carousel-control-prev, .carousel-control-next {
-    background-color: rgba(0, 0, 0, 0.5);
-}
-
-.carousel-caption {
-    background-color: rgba(0, 0, 0, 0.4);
-    color: white;
-}
-
+/* Footer color and text orientation*/
 footer{
     background-color: #003566;
     color: #dee3ed;
@@ -43,6 +31,19 @@ footer{
     margin-top: auto;
 }
 
+
+/* Index.html content */
+/*Carousel customization*/
+.carousel{
+    width: 45%;
+}
+.carousel-control-prev, .carousel-control-next {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+}
 .cactus {
     height: 500px; width: auto
 }
