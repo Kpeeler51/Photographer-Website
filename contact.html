@@ -58,29 +58,32 @@
         <h3>Contact Me</h3>
         <form action="#" method="get">
         <div class="row">
-            <div class="col-2">
+            <div class="col-lg-2">
                 <label> Name:
                     <input type="text"
                     name="first-name"
                     placeholder="First Name" required>
                 </label>
             </div>
-            <div class="col-2">
+            <div class="col-lg-2">
                 <input type="text"
                 name="last-name"
                 placeholder="Last Name" required>
             </div>
         </div>
+        <div class="row">
             <div>
-                <input type="email"
-                name="email" id="email"
-                placeholder="Your Email">
+                <label>Email:</label>
+                <input class="mx-1" type="email"
+                name="email"
+                placeholder="Human@email.com" required>
             </div>
+        </div>
             <div>
                 <textarea 
                 name="message" id="message"
                 placeholder="Enter Message Here"
-                cols="50" rows="20" ></textarea>
+                cols="50" rows="10" ></textarea>
             </div>
         </form>
     </section>
