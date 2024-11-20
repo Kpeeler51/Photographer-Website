@@ -43,12 +43,12 @@
         </nav>
     </header>
     
-    <section class="row">
-        <h4 class="col-4 my-5"> 
+    <section class="row mx-3">
+        <h4 class="my-5 col-xl-4"> 
             <img src="./assets/Icons/email-50.png" alt="Image of a mail letter">
             Email Address:Photographer@email.com
         </h4>
-        <h4 class="col-4 my-5">
+        <h4 class="my-5 col-xl-4">
             <img src="./assets/Icons/phone-50.png" alt="Image of a telephone">
             Phone Number:123-456-7890
         </h4>
@@ -59,39 +59,41 @@
         <form action="#" method="get">
         <div class="row">
             <div class="col-lg-2">
-                <label class="d-block">First Name:</label>
+                <label class="py-1 d-block">First Name:</label>
                     <input type="text"
                     name="first-name"
                     placeholder="First Name" required>
             </div>
-            <div class="g-0 col-lg-2">
-                <label class="d-block"> Last Name</label>
+            <div class="col-lg-2 g-0">
+                <label class="py-1 d-block"> Last Name</label>
                 <input type="text"
                 name="last-name"
                 placeholder="Last Name" required>
             </div>
         </div>
-            <div >
-                <label class="d-block">Email:</label>
+        <div class="row">
+            <div class="col-lg-2">
+                <label class="py-1 d-block">Email:</label>
                 <input type="email"
                 name="email"
                 placeholder="Human@email.com" required>
             </div>
-            <div>
-                <label class="d-block">Phone Number:</label>
+            <div class="col-lg-2 g-0">
+                <label class="py-1 d-block">Phone Number:</label>
                 <input type="tel"
                  name="phone"
                 placeholder="123-456-7890" required>
             </div>
+        </div>
             <div>
-                <label> Message:</label>
+                <label class="py-1">Message:</label>
                 <br/>
                 <textarea 
                 name="message" id="message"
                 placeholder="Enter Message Here"
                 cols="53" rows="10" required></textarea>
             </div>
-            <button class="btn btn-light" type="submit" value="submit">Submit</button>
+            <button class="btn btn-light" style="width: 491px;" type="submit" value="submit">Submit</button>
         </form>
     </section>
 
