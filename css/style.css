@@ -51,6 +51,10 @@ footer{
     color: white;
 }
 
+.galleryimg{
+    width: 35rem;
+}
+
 .priceimg{
     width: 20rem;
 }
