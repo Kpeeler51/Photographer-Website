@@ -14,6 +14,10 @@ body {
     flex-direction: column;
 }
 
+ul{
+    list-style: none;
+}
+
 /*Navbar colors, "a" is for text customization*/
 .navbar {
     background-color: #003566;
