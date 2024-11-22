@@ -19,6 +19,7 @@ Gallery, prices, and contact pages formatted using Bootstrap rows and columns.
 ## Usage
 
 Source code hosted at: <https://github.com/Kpeeler51/Photographer-Website>
+
 Github Pages website hosted at: <https://kpeeler51.github.io/Photographer-Website/>
 
 All pages of the website can be accessed by clicking the navbar.
