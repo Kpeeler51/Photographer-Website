@@ -18,7 +18,8 @@ Gallery, prices, and contact pages formatted using Bootstrap rows and columns.
 
 ## Usage
 
-Source code hosted at <https://github.com/Kpeeler51/Photographer-Website>
+Source code hosted at: <https://github.com/Kpeeler51/Photographer-Website>
+Github Pages website hosted at: <https://kpeeler51.github.io/Photographer-Website/>
 
 All pages of the website can be accessed by clicking the navbar.
 Contact form can be used by typing information into the text boxes. Email address and phone number do not need to be real, only formatted correctly in the style of a email address and phone number respectively.
