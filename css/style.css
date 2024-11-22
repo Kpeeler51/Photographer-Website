@@ -54,11 +54,13 @@ footer{
     background-color: rgba(0, 0, 0, 0.4);
     color: white;
 }
-
+/* Gallery.html content */
+/* Gallery image size */
 .galleryimg{
     width: 35rem;
 }
-
+/* Prices.html customization */
+/* Prices image size */
 .priceimg{
     width: 20rem;
 }
