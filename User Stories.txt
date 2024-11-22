@@ -1,0 +1,3 @@
+1: As a potential customer, I want to browse a photographer's portfolio to see if their work matches my needs.
+2: As a client, I want to see the prices of a photographer's work, as well as contact the photographer for commissions.
+3: As a photographer, I want a centralized place to describe myself and contains links to social media.
